@@ -1,5 +1,4 @@
-#source 'http://rubygems.org'
-source :rubygems
+source 'http://rubygems.org'
 
 gem 'rails', '3.1.1'
 gem 'devise'
